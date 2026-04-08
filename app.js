@@ -246,7 +246,7 @@ function team(teamName, year) {
             return "rb"
             break
         case "Cadillac":
-            return "audi"
+            return "cadillac"
             break
         case "Audi":
             return "audi"
