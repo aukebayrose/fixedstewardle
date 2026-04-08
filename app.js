@@ -245,6 +245,12 @@ function team(teamName, year) {
         case "RB F1 Team":
             return "rb"
             break
+        case "Cadillac":
+            return "cadillac"
+            break
+        case "Audi":
+            return "audi"
+            break
     }
 }
 
